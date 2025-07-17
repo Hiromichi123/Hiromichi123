@@ -21,7 +21,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Z4nzu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hiromichi123&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S,AAA,AA,A,B)
 
 </p>
 <p align="center">
