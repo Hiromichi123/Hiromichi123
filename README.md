@@ -6,9 +6,9 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/python-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://go.dev/images/go-logo-blue.svg" style="width: 70px; height: 70px; object-fit: contain;"/> |
 
 ### Operating System (OS) Knowledge:
-| Ubuntu | Linux | ROS | ROS2 |
-|--------|-------|-----|------|
-| <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Ubuntu.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/LINUX.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" style="width: 70px; height: 70px; object-fit: contain;"/> |
+| Gentoo | Ubuntu | Linux | ROS | ROS2 |
+|--------|--------|-------|-----|------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-plain.svg" alt="Gentoo"> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Ubuntu.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/LINUX.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" style="width: 70px; height: 70px; object-fit: contain;"/> |
 
 ### Tools Knowledge:
 | VSCode | Gazebo | OpenCV | Unity |
@@ -21,7 +21,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hiromichi123&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S,AAA,AA,A,B)
+![](https://github-trophies.vercel.app/?username=Hiromichi123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </p>
 <p align="center">
