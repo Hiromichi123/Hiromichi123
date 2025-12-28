@@ -8,7 +8,7 @@
 ### Operating System (OS) Knowledge:
 | Gentoo | Ubuntu | Linux | ROS | ROS2 |
 |--------|--------|-------|-----|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-plain.svg" alt="Gentoo"> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Ubuntu.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/LINUX.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" style="width: 70px; height: 70px; object-fit: contain;"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-plain.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Ubuntu.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/LINUX.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" style="width: 70px; height: 70px; object-fit: contain;"/> |
 
 ### Tools Knowledge:
 | VSCode | Gazebo | OpenCV | Unity |
