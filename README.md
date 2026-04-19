@@ -1,4 +1,4 @@
-## I'm Hiromichi123 👋
+## I'm Hiromichi 👋
 
 ### Languages Knowledge:
 | C | C++ | Python | Rust | C# | Golang |
