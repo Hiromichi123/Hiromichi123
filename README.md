@@ -29,8 +29,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-<!--
 <!--语言占比-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiromichi123&hide=javascript,html,css,cmake,c,Assembly,Uno,Makefile)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiromichi123)](https://github.com/anuraghazra/github-readme-stats)
 <!--统计卡片-->
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiromichi123&count_private=true&show_icons=true&theme=omni)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiromichi123&count_private=true&show_icons=true&theme=omni)
