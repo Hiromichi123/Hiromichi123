@@ -57,6 +57,7 @@
 
 <table>
   <tr>
+    <td align="center">ComfyUI</td>
     <td align="center">Three.js</td>
     <td align="center">SolidWorks</td>
     <td align="center">Isaac</td>
@@ -67,6 +68,7 @@
     <td align="center">Git</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://storage.googleapis.com/comfy-assets/logo.png" width="58" height="58" alt="ComfyUI" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="58" height="58" alt="Three.js" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/YannHS/aero-dot-org-website/master/static/img/sponsors/solidworks.svg" width="58" height="58" alt="SolidWorks" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg" width="58" height="58" alt="Isaac" /></td>
