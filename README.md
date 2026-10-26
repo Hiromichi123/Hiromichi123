@@ -6,7 +6,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Hiromichi123&show_icons=true&theme=omni" alt="Hiromichi's GitHub stats" />
     </td>
     <td width="100%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiromichi123&layout=compact&theme=omni" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiromichi123&hide=c,Assembly&layout=compact&theme=omni" alt="Top languages" />
     </td>
   </tr>
 </table>
